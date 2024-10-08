@@ -43,7 +43,7 @@ const NavBar = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Wendy
+            Michael
           </a>
         </h1>
       </div>
